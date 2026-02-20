@@ -2,7 +2,6 @@
 
 This repository is a **Bookstore Management** web application and REST API built with Next.js (App Router), TypeScript, Prisma, and Tailwind (shadcn UI). The project includes a server-side API (in `src/app/api/*`) for managing books, users, and orders, JWT authentication, and a small UI to interact with the API. The app uses Prisma and ships with a default SQLite DB (`db/custom.db`) but can be configured to use MySQL.
 
-> This README was generated after analyzing the project files and the sample API UI screenshots you provided.
 
 ---
 
